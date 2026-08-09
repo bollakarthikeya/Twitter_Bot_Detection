@@ -51,7 +51,7 @@ For Logistic Regression, cross-validation selected **C = 1e-5** from the tested 
 
 **Random Forest achieved the best result at 92.42% test accuracy**, demonstrating that bot and human accounts can be effectively separated using account metadata by employing machine-learning techniques.
 
-## Technologies
+## Tech Stack
 
 - Python
 - Pandas / NumPy
